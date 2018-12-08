@@ -1,0 +1,14 @@
+12/7/2018 10:28:17 AM Info ICD Started
+12/7/2018 10:28:21 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+12/7/2018 10:28:21 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+12/7/2018 10:28:21 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+12/7/2018 10:28:21 AM Warning Exception on reading ICDWindowHeight. The key 'ICDWindowHeight' does not exist in the appSettings configuration section.
+12/7/2018 10:28:21 AM Warning Exception on reading ICDWindowWidth. The key 'ICDWindowWidth' does not exist in the appSettings configuration section.
+12/7/2018 10:28:21 AM Warning Exception on reading ICDWindowMinHeight. The key 'ICDWindowMinHeight' does not exist in the appSettings configuration section.
+12/7/2018 10:28:21 AM Warning Exception on reading ICDWindowMinWidth. The key 'ICDWindowMinWidth' does not exist in the appSettings configuration section.
+12/7/2018 10:28:21 AM Warning Exception on reading ICDWindowState. The key 'ICDWindowState' does not exist in the appSettings configuration section.
+12/7/2018 10:29:28 AM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.3.0_x86__8wekyb3d8bbwe\icd\Microsoft-Team-Provisioning.dat
+12/7/2018 10:29:28 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+12/7/2018 10:29:28 AM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.3.0_x86__8wekyb3d8bbwe\icd\Microsoft-Team-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.3.0_x86__8wekyb3d8bbwe\icd\Microsoft-Team-Provisioning.dat
+12/7/2018 10:29:28 AM Info Loaded settings from Windows Unknown Unknown
+12/7/2018 10:29:54 AM Info Stopping server
